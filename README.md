@@ -1,3 +1,3 @@
-Static page for the website of the Interquoe Community.
+Static page for the website of the Interqueo Community.
 
 React/Vite/Ts
